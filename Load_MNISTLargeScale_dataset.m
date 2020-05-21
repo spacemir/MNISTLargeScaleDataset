@@ -3,7 +3,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 path = '<add_path>';
-path = '/Users/yjansson/IRF_datasets/MNIST_scaled_renamed_for_upload/';
 
 % This specific dataset contains scale variations in the range [1,4] 
 % relative the original MNIST dataset
